@@ -1,0 +1,61 @@
+{
+  "status": 0,
+  "message": "",
+  "result": [
+    {
+      "addressId":10001210,
+      "userName": "Alvin",
+      "streetName":"东莞市松山湖",
+      "postCode": "523123",
+      "telPhone": "1232432444312",
+      "isDefault": true
+    },
+    {
+      "addressId":10001211,
+      "userName": "Sam",
+      "streetName":"东莞市南城区",
+      "postCode": "523123",
+      "telPhone": "1232432444312",
+      "isDefault": false
+    },
+    {
+      "addressId":10001212,
+      "userName": "Tom",
+      "streetName":"东莞市东城区",
+      "postCode": "523123",
+      "telPhone": "1232432444312",
+      "isDefault": false
+    },
+    {
+      "addressId":10001213,
+      "userName": "Jack",
+      "streetName":"东莞市大岭山",
+      "postCode": "523123",
+      "telPhone": "1232432444312",
+      "isDefault": false
+    },
+    {
+      "addressId":10001214,
+      "userName": "Amanda",
+      "streetName":"东莞市茶山镇",
+      "postCode": "523123",
+      "telPhone": "1232432444312",
+      "isDefault": false
+    },{
+      "addressId":10001215,
+      "userName": "Tammy",
+      "streetName":"东莞市莞城区",
+      "postCode": "523123",
+      "telPhone": "1232432444312",
+      "isDefault": false
+    },
+    {
+      "addressId":10001216,
+      "userName": "Jim",
+      "streetName":"东莞市大朗镇",
+      "postCode": "523123",
+      "telPhone": "1232432444312",
+      "isDefault": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": 1,
+  "result":{
+    "totalMoney": 15000,
+    "title": [
+      "商品信息","商品金额","商品数量","总金额","编辑"
+    ],
+    "list": [
+      {
+        "productId": "50092332344211",
+        "productName": "苹果Xs",
+        "productPrice": 10000,
+        "productQty": 1,
+        "productImg": "static/img/iphonexs.jpg",
+        "parts":[
+          {
+            "partsId":"1001",
+            "partsName":"手机"
+          }
+        ]
+      },
+      {
+        "productId": "50092332344212",
+        "productName": "苹果watch",
+        "productPrice": 5000,
+        "productQty": 1,
+        "productImg": "static/img/iwatch.jpg",
+        "parts":[
+          {
+            "partsId":"1002",
+            "partsName":"手表"
+          }
+        ]
+      }
+    ]
+  },
+  "message": ""
+}
